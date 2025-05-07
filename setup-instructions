@@ -1,0 +1,12 @@
+brew install nvim
+brew install git
+brew install tmux
+
+# set up the neovim config from github
+# set up tmux config
+# set up .zshrc
+
+# follow setup instructions here https://github.com/nvm-sh/nvm
+
+brew install node
+brew install postgresql
